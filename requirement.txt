@@ -1,0 +1,9 @@
+haystack-ai
+pinecone
+pinecone-haystack
+streamlit
+python-dotenv
+pypdf
+pathlib 
+
+-e .
